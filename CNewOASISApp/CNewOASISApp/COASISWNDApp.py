@@ -1,5 +1,5 @@
 from tkinter import *  #Load TKinker Windowing Class of Widgets
-from COASISWindowCls import COASISWindow
+from CNewOASISApp.COASISWindowCls import COASISWindowLib
 from CHomoSapien import CHomoSapien
 #***************************************************************
 #Create a TKinker Window Class which Subclasses the Frame Class
