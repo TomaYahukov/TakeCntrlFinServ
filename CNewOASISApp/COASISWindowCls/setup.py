@@ -1,0 +1,9 @@
+setup(name='OASISWindowClass',
+      version='0.1',
+      description='A plugin to say hello in several ways',
+      url='http://ictshore.com/',
+      author='Thomas Richburg',
+      author_email='tomayahukov@yahoo.com',
+      license='MIT',
+      packages=['OASISWindowClass'],
+      zip_safe=False)
